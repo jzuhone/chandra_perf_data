@@ -6,14 +6,14 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'save_chandra_data'
-copyright = '2024, Friends of Chandra'
-author = 'Friends of Chandra'
+project = 'Chandra Performance Data'
+copyright = '2024, John ZuHone'
+author = 'John ZuHone'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['sphinx_design']
 
 templates_path = ['_templates']
 exclude_patterns = []
