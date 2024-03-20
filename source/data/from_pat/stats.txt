@@ -1,0 +1,197 @@
+
+Compilation of various stats for potential use in mini SR.
+
+o Senior Review:
+
+2022 - Tier 1 (along w/ HST) - No discrete or comparative ratings
+
+2019 - Tier 1 (along w/ HST)
+
+ADJECTIVAL RATING FOR SCIENCE MERIT: EXCELLENT
+ADJECTIVAL RATING FOR RELEVANCE AND RESPONSIVENESS: EXCELLENT 
+ADJECTIVAL RATING FOR TECHNICAL CAPABILITY AND COST REASONABLENESS: EXCELLENT/VERY GOOD
+OVERALL ADJECTIVAL RATING: EXCELLENT
+
+  "Chandra did not submit an over-guide budget request, but we note
+  that absorbing the impact of inflation within its constant projected
+  budget is likely to eventually compromise the mission's ability
+  to maintain operational effectiveness. We advise NASA to be
+  attentive to this risk and make adjustments if possible."
+
+NOTE: HST ratings:
+
+ADJECTIVAL RATING FOR SCIENCE MERIT: EXCELLENT
+ADJECTIVAL RATING FOR RELEVANCE AND RESPONSIVENESS: EXCELLENT/VERY GOOD
+ADJECTIVAL RATING FOR TECHNICAL CAPABILITY AND COST REASONABLENESS: EXCELLENT/VERY GOOD
+OVERALL ADJECTIVAL RATING: EXCELLENT/VERY GOOD
+
+2016 - No discrete or comparative ratings.
+
+  "GO budget: The panel believes that GO budget is falling behind
+  with inflation and needs to be increased. There should be ways
+  to increase this budget to insure continued high scientific
+  output."
+
+
+o NHFP
+
+Every year, we've awarded 24 fellowships.
+Here's the number of compliant applications received by year.
+2018 - 350
+2019 - 383
+2020 - 380
+2021 - 406
+2022 - 446.  This year we extended eligibility from 3 to 4 years past PhD.
+2023 - 457
+2024 - 521
+
+
+o TOOs
+
+OBSERVED TRIGGERS:
+CYCLE:  19  20  21  22  23  24  25 
+VFAST:   3   3   5   8   0   7   0 
+ FAST:   9  11   5  11   7   7   3 
+TOTAL:  12  14  10  19   7  14   3 
+
+OBSERVED FOLLOWUPS:
+CYCLE:  19  20  21  22  23  24  25 
+VFAST:   0   0   1   0   0   0   0 
+ FAST:   4   3   3   2   0  10   0 
+TOTAL:   4   3   4   2   0  10   0 
+
+ALL OBSERVED SUMMED:
+CYCLE:  19  20  21  22  23  24  25 
+VFAST:   3   3   6   8   0   7   0 
+ FAST:  13  14   8  13   7  17   3 
+TOTAL:  16  17  14  21   7  24   3 
+
+Here are the number of TOOs and DDTs sequences where we began our
+first observation of the sequence in less than 5 days (VFAST) or
+between 5 days and less than 20 days (FAST) from the time the TOO
+or DDT was triggered since January 1, 2019 through March 2, 2024.
+
+TOO VFAST Initial:  20
+TOO VFAST Followup:  1
+TOO FAST Initial:   48
+TOO FAST Followup:  14
+
+DDT VFAST Initial:   5
+DDT VFAST Followup:  0
+DDT FAST Initial:   24
+DDT FAST Followup:  23
+
+
+o Load replans from radiation events & anomalies:
+
+Year, Anomalies Replans, Radiation Replans
+2019, 1, 0
+2020, 2, 0
+2021, 2, 1
+2022, 5, 3
+2023, 1, 4
+2024, 2, 2
+
+
+o Publication Statistics:
+
+Chandra Science Papers (CSPs):
+
+ Year        Chandra Science Papers
+ ----------- ----------------------
+        2000                     55
+        2001                    198
+        2002                    330
+        2003                    431
+        2004                    400
+        2005                    447
+        2006                    549
+        2007                    499
+        2008                    517
+        2009                    430
+        2010                    421
+        2011                    440
+        2012                    452
+        2013                    425
+        2014                    404
+        2015                    429
+        2016                    440
+        2017                    471
+        2018                    459
+        2019                    421
+        2020                    390
+        2021                    377
+        2022                    366
+        2023                    435
+        2024                     84
+====================
+     average                 394/yr
+     total                       9870
+
+ObsIDs/seqnum
+
+Year        Observations by obsid Observations by Sequence Number
+ ----------- --------------------- -------------------------------
+        1999                   622                             592
+        2000                   961                             904
+        2001                   821                             714
+        2002                   891                             833
+        2003                   948                             873
+        2004                   789                             700
+        2005                   901                             696
+        2006                   957                             835
+        2007                   967                             824
+        2008                  1130                             944
+        2009                  1026                             859
+        2010                   974                             830
+        2011                   910                             807
+        2012                   843                             696
+        2013                   902                             783
+        2014                   739                             556
+        2015                   804                             609
+        2016                   934                             694
+        2017                   881                             591
+        2018                  1059                             764
+        2019                  1002                             676
+        2020                  1004                             568
+        2021                  1188                             736
+        2022                  1484                            1019
+        2023                  1420                             736
+        2024                   285                             169
+
+
+Year        Chandra PhDs
+ ----------- ------------
+        2000            2
+        2001            5
+        2002           14
+        2003           15
+        2004           20
+        2005           20
+        2006           24
+        2007           37
+        2008           34
+        2009           41
+        2010           47
+        2011           43
+        2012           30
+        2013           39
+        2014           38
+        2015           24
+        2016           43
+        2017           40
+        2018           26
+        2019           30
+        2020           17
+        2021           13
+        2022            1
+====================
+     total               603
+
+
+
+o ACIS Software
+  - ACIS Instrument Flight Software:         ~55Ksloc
+  - ACIS Instrument Flight Software Patches: ~12Ksloc
+  - EGSE Software:                           ~130Ksloc
+  - Patch development and other tools:       ~80Ksloc
