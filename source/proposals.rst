@@ -14,6 +14,11 @@ This plot shows the cumulative number of students, postdocs, and Ph.D. theses en
 .. image::
     images/students.png
 
+This plot shows the number of students and postdocs enabled by Chandra science per year.
+
+.. image::
+    images/students_bar.png
+
 Oversubscription Rate of Proposals
 ----------------------------------
 
